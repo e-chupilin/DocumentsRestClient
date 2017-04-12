@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Document>
+	<chapters>
+		<chapterNumber>10</chapterNumber>
+		<id>10</id>
+		<pagesQuantity>10</pagesQuantity>
+	</chapters>
+	<chapters>
+		<chapterNumber>20</chapterNumber>
+		<id>20</id>
+		<pagesQuantity>20</pagesQuantity>
+	</chapters>
+
+	<name>I`m test document from client !!!</name>
+</Document>
